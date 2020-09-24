@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+.form-control {
+    border: 1px solid #707070;
+    border-radius: 18px;
+    height: 23px;
+    padding: 10px;
+}
+.btn {
+     background-color: #26A1B5;
+     border: none;
+     border-radius: 18px;
+     color: #FFFFFF;
+     font-weight: bolder;
+     outline: none;
+     padding:  13px 25px 13px 25px;
+}
